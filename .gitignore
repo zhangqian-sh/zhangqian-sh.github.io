@@ -15,3 +15,6 @@ package-lock.json
 # Ignore vscode files
 .vscode/
 *.code-workspace
+
+# Ignore backup files
+bak/
