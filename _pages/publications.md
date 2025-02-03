@@ -9,6 +9,8 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+Zhang Q., Krotov D., & Karniadakis, G. E. (2025). Operator Learning for Reconstructing Flow Fields from Sparse Measurements: an Energy Transformer Approach. *arXiv preprint arXiv:2501.08339*
+
 Wan, R., Zhang, Q., & Karniadakis, G. E. (2024). Randomized forward mode gradient for spiking neural networks in scientific machine learning. *arXiv preprint arXiv:2411.07057*
 
 Theilman, B. H., Zhang, Q., Kahana, A., Cyr, E. C., Trask, N., Aimone, J. B., & Karniadakis, G. E. (2024). Spiking Physics-Informed Neural Networks on Loihi 2. *2024 Neuro Inspired Computational Elements Conference (NICE)*.
